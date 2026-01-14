@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I'm Sarthak
 
-<!--
-**sarthak232007/sarthak232007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-stack web developer building real-world applications  
+🤖 Exploring AI & automation to enhance web products  
 
-Here are some ideas to get you started:
+🎯 Currently focused on:
+- Production-ready projects  
+- Problem solving & DSA  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Goals: 
+- Building products used by real users  
+
+🔗 GitHub: sarthak232007
+
+📧 How to reach me : sarthakdixit547@gmail.com
+
+---
+⭐ Feel free to explore my repositories
+
