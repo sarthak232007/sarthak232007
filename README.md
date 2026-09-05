@@ -1,6 +1,6 @@
 # Hi 👋, I'm sarthak dixit
 
-### WEB DEVELOPER
+### WEB DEVELOPER 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak232007&label=Profile views&color=0e75b6&style=flat" alt="sarthak232007" /> </p>
 
@@ -9,10 +9,10 @@
 - 🔭 I'm currently working on **Production-ready projects  
 Problem solving & DSA**
 
-- 🌱 I'm currently learning ** Full-stack web developer building real-world applications
+- 🌱 I'm a  Full-stack web developer building real-world applications
 🤖 Exploring AI & automation to enhance web products
 
-**
+
 
 - 👯 I'm looking to collaborate on **Open source projects **
 
