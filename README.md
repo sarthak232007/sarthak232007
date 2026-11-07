@@ -1,11 +1,7 @@
-<!-- <h2 align="center">Hi, I'm Sarthak Dixit 👋</h2>
-<p align="center"> -->
+
   <a align="middle" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;Hi, I'm Sarthak Dixit" /></a>
 </p>
 
-<!-- <p align="center">
-  <img align="middle" alt="GIF" src="https://i.pinimg.com/originals/65/a5/ec/65a5ec60b90f6b8faede3390ad5ee065.gif" width="400" />
-</p> -->
 
 ---
 
