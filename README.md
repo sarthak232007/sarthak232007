@@ -1,7 +1,10 @@
-
-  <a align="middle" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;Hi, I'm Sarthak Dixit" /></a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=F72EE2&size=25&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;Hi,+I'm+Sarthak+Dixit" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
+  <img align="middle" alt="Martial Arts GIF" src="https://media.giphy.com/media/4AgqTZNHusYYE/giphy.gif" width="400" />
+</p>
 
 ---
 
@@ -36,7 +39,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons5/tailwind" alt="tailwind" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
 </p>
 
