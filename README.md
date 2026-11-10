@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img align="middle" alt="Martial Arts GIF" src="https://in.pinterest.com/pin/632403972718604517/" width="400" />
+  <img align="middle" alt="Martial Arts GIF" src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="400" />
 </p>
 
 ---
