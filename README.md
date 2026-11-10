@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img align="middle" alt="Martial Arts GIF" src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="400" />
+<img align="middle" alt="Car Driving GIF" src="https://media.giphy.com/media/mlBDoVLOGidEc/giphy.gif" width="600" />
 </p>
 
 ---
